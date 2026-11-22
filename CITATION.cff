@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng mã nguồn này, vui lòng trích dẫn như sau."
+title: "student-performance-ml: Phân tích và dự đoán kết quả học tập bằng học máy"
+type: software
+authors:
+  - family-names: "Phạm"
+    given-names: "Lê Trường Thịnh"
+    affiliation: "Can Tho University"
+    orcid: "https://orcid.org/0009-0002-5606-6810"
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
+repository-code: "https://github.com/Thinh2804/student-performance-ml"
+keywords:
+  - educational data mining
+  - decision tree
+  - k-means
+  - student performance
+references:
+  - type: dataset
+    title: "Student Performance"
+    authors:
+      - family-names: Cortez
+        given-names: Paulo
+    year: 2008
+    doi: "10.24432/C5TG7T"
+    license: CC-BY-4.0
